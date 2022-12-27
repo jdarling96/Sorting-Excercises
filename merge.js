@@ -1,4 +1,6 @@
-function merge() {}
+function merge(arr) {
+
+}
 
 function mergeSort() {}
 
